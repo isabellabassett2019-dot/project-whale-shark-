@@ -1,5 +1,8 @@
 field,display_name
-title,Title
-date,Date
+common_name,Common Name
+scientific_name,Scientific Name
+observed_on,Date Observed
+place_guess,Location
 description,Description
-subject,Subjects
+latitude,Latitude
+longitude,Longitude
